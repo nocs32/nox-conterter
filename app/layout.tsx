@@ -10,7 +10,7 @@ const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
     title: "NOX CONVERTER",
-    description: "NOX CONVERTER lets you change the file formats of your images",
+    description: "NOX CONVERTER lets you change the file formats of your files",
 };
 
 export default function RootLayout({ children }: Readonly<{ children: React.ReactNode }>) {
